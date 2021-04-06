@@ -1,0 +1,31 @@
+<!Doctype html>
+<meta charset="utf-8">
+<title>index.html</title>
+</head>
+
+<body>
+<h1>Hello There</h1>
+<p>My name is Melissa Eligio, I am currently a college student who is working towards an AS degree in game development. In my free time I enjoy hoping on my pc and playing video games with my friends or watching movies together with them.</p>
+<h2>Skills</h2>
+<ul>
+<li>HTML</li>
+<li>Video/Photo Editing</li>
+</ul>
+<h2>Software/Hardware</h2>
+<ul>
+<li>Adobe Photoshop</li>
+<li>Adobe Animate</li>
+<li>Microsfot Office</li>
+</ul>
+<h2>Social Media</h2>
+<ul>
+<li><a href=https://github.com/akiwoz>My Github</a></li>
+
+</ul>
+<h2>Work Samples</h2>
+  <p>(all images are stock images as I currently have no work samples yet)</p>
+  <img src="OIP.jpg" alt="Nun swimming" width="300px">
+<img src="R8cdce95067b0947eb06ef04dc9b85da9.jpg" alt="Cook" width="300px">
+<img src="istock-887383590.jpg" alt="surprised girl" width="300px">
+<img src="free-stock-images.jpg" alt="Boy" width="170px">
+<img src="IMG_3696-Edit.jpg" alt="legs" width="170px">
